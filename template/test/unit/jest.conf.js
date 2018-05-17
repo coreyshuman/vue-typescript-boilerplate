@@ -28,6 +28,7 @@ module.exports = {
     'src/**/*.{ts,vue}',
     '!src/main.ts',
     '!src/router/index.ts',
+    '!src/store/index.ts',
     '!src/typings.d.ts',
     '!**/node_modules/**'
   ]
